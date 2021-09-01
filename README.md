@@ -1,0 +1,2 @@
+# alpha
+Java sample project
